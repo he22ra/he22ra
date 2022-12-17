@@ -1,12 +1,12 @@
-<div align="center">  
-<img src="https://he22ra.github.io/images/project/crackerie/01.jpg" width="600px"/> <br />
+<div align="left">  
+<img src="https://he22ra.github.io/images/project/crackerie/01.jpg" width="580px"/> <br />
 💻 Development, Design, Marketing about web.<br />
 😘 Loves watch Cinema & Musical<br />
 🎄 Merry Crackerie-mas !<br />
 </div>
 <hr> 
 <br> 
-<div align="center">
+<div align="left">
 🔥 Used Framework & Skill 🔥
 <br><br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -25,10 +25,10 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
 </div><br>
 <hr> 
-<div align="center">
+<div align="left">
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=he22ra&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=he22ra&layout=compact&theme=dracula)](https://github.com/metleeha)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=he22ra&show_icons=true&theme=transparent) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=he22ra&layout=compact&theme=transparent)](https://github.com/metleeha)
 
   </div>
 <!--
