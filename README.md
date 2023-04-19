@@ -9,7 +9,7 @@
 <div align="left">
 🔥 Used Framework & Skill 🔥
 <br><br>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a71e23c6-5c1b-4d29-bd8a-53ba7babb8df" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/a71e23c6-5c1b-4d29-bd8a-53ba7babb8df/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100px"></a>
 <br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
